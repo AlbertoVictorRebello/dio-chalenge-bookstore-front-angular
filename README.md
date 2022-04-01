@@ -1,27 +1,27 @@
-# BookstoreFront
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+<div>
+  <img src="./MyWebSite/.img/philips-footer-logo.jpg" alt="philips-logo" width="18.5%" align-self="center" margin="0px">
+  <img src="./MyWebSite/.img/dio-make-the-change.jpg" alt="dio-logo" width="55%" align-self="center" margin="0px"> 
+  <img src="./MyWebSite/.img/PhilipsDioBootCampLogo.jpg" alt="bootcamp-logo" width="23.5%" align-self="center" margin="0px"> 
+</div>
 
-## Development server
+# Presentation
+This repository is part of the bootcamp ["Philips Fullstack Developer | You Are You"](https://web.dio.me/home). In this project it was developed a basic front end using Angular framework. You are invited to use the codes and improve them. It will be great if you have comments or suggestions to make them better. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Tecnologies And Tools
+GIT - HTML - CSS3 - BOOTSTRAP - FLEXBOX - JAVA SCRIPT - ANGULAR - VS Code
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Usage
+We assume that Angular Framework is already installed in your system:
+- Open a terminal to execute the following cli commands.
+- Create a new Angular projec:
+  `ng new bookstoreFront`
+- Install the project dependencies:
+  `npm install`
+- Install Bootstrap:
+  `npm i bootstrap` 
+- Download or clone the content of this repository and move the following folders and files into your project folder.
+  - ./package.json
+  - ./angular.json
+  - ./src/*
+   
