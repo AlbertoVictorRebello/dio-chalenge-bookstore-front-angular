@@ -1,8 +1,8 @@
 
 <div>
-  <img src="./MyWebSite/.img/philips-footer-logo.jpg" alt="philips-logo" width="18.5%" align-self="center" margin="0px">
-  <img src="./MyWebSite/.img/dio-make-the-change.jpg" alt="dio-logo" width="55%" align-self="center" margin="0px"> 
-  <img src="./MyWebSite/.img/PhilipsDioBootCampLogo.jpg" alt="bootcamp-logo" width="23.5%" align-self="center" margin="0px"> 
+  <img src="./.img/philips-footer-logo.jpg" alt="philips-logo" width="18.5%" align-self="center" margin="0px">
+  <img src="./.img/dio-make-the-change.jpg" alt="dio-logo" width="55%" align-self="center" margin="0px"> 
+  <img src="./.img/PhilipsDioBootCampLogo.jpg" alt="bootcamp-logo" width="23.5%" align-self="center" margin="0px"> 
 </div>
 
 # Presentation
